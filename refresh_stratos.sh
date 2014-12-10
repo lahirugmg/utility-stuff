@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#change path to the Stratos checkout directory
 path="/Users/lahiru/work/apache/stratos/code/master/work/stratos"
 echo $path
 
